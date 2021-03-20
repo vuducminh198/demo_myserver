@@ -8,7 +8,7 @@ future==0.17.1
 get==2019.3.22
 idna==2.8
 itsdangerous==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 macholib==1.11
 PyJWT==1.7.1
 MarkupSafe==1.1.1
