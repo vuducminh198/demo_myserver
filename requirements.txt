@@ -10,7 +10,7 @@ idna==2.8
 itsdangerous==1.1.0
 Jinja2==2.10
 macholib==1.11
-PyJWT==1.7.1
+PyJWT==2.4.0
 MarkupSafe==1.1.1
 pefile==2019.4.14
 post==2019.3.22
